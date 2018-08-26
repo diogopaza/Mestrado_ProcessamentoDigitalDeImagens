@@ -8,3 +8,11 @@ Visão Computacional: possui como entrada uma imagem porém a saída é uma inte
 </p>
 <h4>OpenCV(Open Source Computer Vision): é uma biblioteca de programação de código aberta. </h4>
 <p>OpenCV foi desenvolvida pela Intel e possui mais de 500 funções.</p>
+
+
+
+
+<br>
+<br>
+<br>
+<p>link tutorial Pyton + OpenCV: https://www.youtube.com/watch?v=wmC5U9Vv7Ck&list=PL-t7zzWJWPtx3enns2ZAV6si2p9zGhZJX</p>
