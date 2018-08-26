@@ -13,6 +13,8 @@ Visão Computacional: possui como entrada uma imagem porém a saída é uma inte
 	<ul>
 		<li>Baixar e instalar o Python. Link de download: <a href='https://www.python.org/downloads/'>download Python</a></li>
 		<li>Baixar e instalar o <a href='https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads'>Microsoft Visual C++ 2017</a></li>
+		<li>Instalar o Matplotlib que é uma biblioteca dedicada ao traçado gráfico.<br>
+			comando no console: pip install matplotlib</li>
 	</ul>
 
 <h4>Comando básicos<h4>
