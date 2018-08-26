@@ -15,8 +15,11 @@ Visão Computacional: possui como entrada uma imagem porém a saída é uma inte
 		<li>Baixar e instalar o <a href='https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads'>Microsoft Visual C++ 2017</a></li>
 		<li>Instalar o Matplotlib que é uma biblioteca dedicada ao traçado gráfico.<br>
 			comando no console: pip install matplotlib</li>
-		<li>Instalar o móduo numpy que fornece centenas de funções matemáticas úteis além de constantes como base de logaritmos naturais.<br>
-		Para instalar o modódulo numpy executar o comando no console: pip install numpy </li>
+		<li>Instalar o módulo numpy que fornece centenas de funções matemáticas úteis além de constantes como base de logaritmos naturais.<br>
+		Para instalar o módulo numpy executar o comando no console: pip install numpy </li>
+		<li><a href='https://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv'>Baixar OpenCV</a></li>
+		<li>Copiar o arquivo do OpenCV que foi baixado para a subpasta script dentro do diretório onde seu Python esta instalado</li>
+		<li></li>
 		<li></li>
 	</ul>
 
