@@ -9,9 +9,10 @@ Visão Computacional: possui como entrada uma imagem porém a saída é uma inte
 <h4>OpenCV(Open Source Computer Vision): é uma biblioteca de programação de código aberta. </h4>
 <p>OpenCV foi desenvolvida pela Intel e possui mais de 500 funções.</p>
 
-<h4>Instalção</h4>
+<h4>Instalação do módulo OpenCV do Python 3  no Windows</h4>
 	<ul>
 		<li>Baixar e instalar o Python. Link de download: <a href='https://www.python.org/downloads/'>download Python</a></li>
+		<li>Baixar e instalar o <a href='https://support.microsoft.com/en-us/help/2977003/the-latest-supported-visual-c-downloads'>Microsoft Visual C++ 2017</a></li>
 	</ul>
 
 <h4>Comando básicos<h4>
