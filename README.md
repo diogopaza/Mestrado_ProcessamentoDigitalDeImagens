@@ -20,7 +20,7 @@ Visão Computacional: possui como entrada uma imagem porém a saída é uma inte
 		<li><a href='https://www.lfd.uci.edu/~gohlke/pythonlibs/#opencv'>Baixar OpenCV</a></li>
 		<li>Copiar o arquivo do OpenCV que foi baixado para a subpasta script dentro do diretório onde seu Python esta instalado</li>
 		<li>Dentro da subpasta scripts do seu Python executar o comando: pip install <strong>nomeDoArquivo Baixado</strong></li>
-		<li>Para testar executar o dentro do IDLE do Python o comando import cv2, se nenhum erro for retornado o módulo OpenCV está funcionando.</li>
+		<li>Para testar, executar o dentro do IDLE do Python o comando import cv2, se nenhum erro for retornado o módulo OpenCV está funcionando.</li>
 	</ul>
 
 <h4>Comando básicos<h4>
