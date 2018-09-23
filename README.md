@@ -32,7 +32,12 @@ Visão Computacional: possui como entrada uma imagem porém a saída é uma inte
 imagem_carregada = cv2.imread("nome_da_imagem", )
 <p>Exibir a imagem em uma janela, primeiro parametro o nome da janela e o segundo o nome da iamgem que foi carregada</p>
 cv2.imshow("ImagemCarregada", imagemCarregada)
-
+<h4>Para ler um pixel</h4>
+<p>
+	Com um comando item() retornando na tela é possível ver o quanto cada pixel tem em sua banda, por exemplo quanto tem na banda green de verde de 0 a 255 e assim nas outras duas bandas. Quanto mais green tiver na sua respectiva banda por exemplo mais perto de 255 esse valor fica. 
+</p>
+<h4>Para modificar um pixel</h4>
+<p></p>
 <h3>Detalhes de Python e OpenCV</h3>
 <p></p>
 <br>
