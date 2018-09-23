@@ -27,12 +27,14 @@ Visão Computacional: possui como entrada uma imagem porém a saída é uma inte
 	<p>No prompot do DOS(ou qualquer outro console) digitar o comando python com isso ele mostrara na tela a versão do Python e com isto já é testado se o P`ython está funcionando.</p>
 
 <h6>Iniciando com OpenCV</h6>
-<p>Para carregar uma imagem, primeiro parametro o nome da imagem e o segundo caso vaor seja 0 a imagem será carregada em tons de cinza  </p>
+<p>Para carregar uma imagem, primeiro parametro o nome da imagem e o segundo caso vaor seja 0 a imagem será carregada em tons de cinza, caso o parametro seja omitido a imagem é carregada com cores normalmente   </p>
 
 imagem_carregada = cv2.imread("nome_da_imagem", )
 <p>Exibir a imagem em uma janela, primeiro parametro o nome da janela e o segundo o nome da iamgem que foi carregada</p>
 cv2.imshow("ImagemCarregada", imagemCarregada)
 
+<h3>Detalhes de Python e OpenCV</h3>
+<p></p>
 <br>
 <br>
 <br>
