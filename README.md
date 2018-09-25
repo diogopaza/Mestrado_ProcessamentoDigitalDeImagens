@@ -34,7 +34,7 @@ imagem_carregada = cv2.imread("nome_da_imagem", )
 cv2.imshow("ImagemCarregada", imagemCarregada)
 <h4>Para ler um pixel</h4>
 <p>
-	Com um comando item() retornando na tela é possível ver o quanto cada pixel tem em sua banda, por exemplo quanto tem na banda green de verde de 0 a 255 e assim nas outras duas bandas. Quanto mais green tiver na sua respectiva banda por exemplo mais perto de 255 esse valor fica. 
+	Com um comando item() retornando na tela é possível ver o quanto cada pixel tem em sua banda, por exemplo quanto tem na banda green de verde de 0 a 255 e assim nas outras duas bandas. Quanto mais green tiver no  respectivo canal de imagem mais perto de 255 esse valor fica. 
 </p>
 <h4>Para modificar um pixel</h4>
 <p></p>
