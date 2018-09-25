@@ -38,7 +38,14 @@ cv2.imshow("ImagemCarregada", imagemCarregada)
 </p>
 <h4>Para modificar um pixel</h4>
 <p></p>
-<h3>Detalhes de Python e OpenCV</h3>
+<h3>Imagem em tons de cinza</h3>
+<p>Exemplo de uso do comando cvtColor para transformar imagem colorida em imagem apenas com tons de cinza</p>
+import cv2
+
+imagem = cv2.imread("imagem_trabalho.jpg")
+imagemFinal = cv2.cvtColor(imagem, cv2.COLOR_BGR2GRAY)
+cv2.imshow('Imagem', imagemFinal)
+
 <p></p>
 <br>
 <br>
