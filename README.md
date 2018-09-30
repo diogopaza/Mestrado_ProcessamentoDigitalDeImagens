@@ -57,3 +57,33 @@ cv2.imshow('Imagem', imagemFinal)
 <p>Amostragem: é a digitalização dos valores de acordo com as coordenadas x e y</p>
 <p>Quantização: é a digitalização dos valores de amplitude, o valor que tem o pixel, ou seja iremos capturar as cores</p>
 <p>Imagem é um plano</p>
+<h3>Exemplo prático de Amostragem e quantização</h3>
+<h6>pacotes utilizados NumPy e OpenCV</h6>
+<p>Exemplo de código</p>
+
+import numpy as np
+import cv2
+
+#le a imagem a partir de um arquivo
+img = cv2.imread("jogador.jpg")
+"""
+Para reduzir a imagem, seleciona uma em cada duas colunas e uma
+em cada duas linhas 
+"""
+
+n=2
+img_reduzida= img[::n,::n]
+
+"""
+Agora a imagem é aumentada a partir da imagem reduzida, os pixel serão
+duplicados no eixo x e y
+Função nrepeat( imagem, vezes, eixo )
+"""
+
+m=2
+img_aumentada = np.repeat( img_reduzida, m, axis=0)
+img_aumentada = np.repeat( img_aumentada, m, axis=1)
+cv2.imshow('aumentada', img_aumentada)
+
+#grava imagem 
+cv2.imwrite('img_aumentada.jpg', img_aumentada)
