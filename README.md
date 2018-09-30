@@ -51,3 +51,8 @@ cv2.imshow('Imagem', imagemFinal)
 <br>
 <br>
 <p>link tutorial Pyton + OpenCV: https://www.youtube.com/watch?v=wmC5U9Vv7Ck&list=PL-t7zzWJWPtx3enns2ZAV6si2p9zGhZJX</p>
+
+<h1>Amostragem e Quantização</h1>
+<p>São técnicas usadas para transformar uma imagem de seu meio em uma imagem digital</p>
+<p></p>
+<p>Imagem é um plano</p>
