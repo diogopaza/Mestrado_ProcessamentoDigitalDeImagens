@@ -54,5 +54,6 @@ cv2.imshow('Imagem', imagemFinal)
 
 <h1>Amostragem e Quantização</h1>
 <p>São técnicas usadas para transformar uma imagem de seu meio em uma imagem digital</p>
-<p></p>
+<p>Amostragem: é a digitalização dos valores de acordo com as coordenadas x e y</p>
+<p>Quantização: é a digitalização dos valores de amplitude, o valor que tem o pixel, ou seja iremos capturar as cores</p>
 <p>Imagem é um plano</p>
