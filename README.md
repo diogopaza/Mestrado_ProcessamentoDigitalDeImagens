@@ -4,6 +4,9 @@
 <p> Processamento de imagens: é um processo onde a entrada do sistema é uma imagem e a saída é um conjunto de valores númericos.
 <br>
 Visão Computacional: possui como entrada uma imagem porém a saída é uma interpretação da imagem como um todo ou parcialmente.
+<h4>Conceitos</h4>
+<p>Cor: é a propriedade que os corpos tem de absorver ou refletir a luz;</p>
+<p></p>
 
 </p>
 <h4>OpenCV(Open Source Computer Vision): é uma biblioteca de programação de código aberta. </h4>
